@@ -1,4 +1,7 @@
-# Causal-Inference
+# A/B testing for Streaming Platform
 
-In this folder, I include 2 harvard business cases (1. Measuring ROI on sponsored search Ads and 2. Star Digital Analysis).
-The experiment methods include Difference in difference, treatment effect estimate, A/B test and so on.
+Star Digital would like to know whether it should invest more on online advertising.
+We utilized A/B testing to see which website they should invest more.
+
+
+
